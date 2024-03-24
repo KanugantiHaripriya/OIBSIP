@@ -1,0 +1,41 @@
+body {
+    font-family:serif;
+    background-color: #0f0a0a;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #f5ebeb;
+    text-align: center;
+    font-family:Black 'Times New Roman', Times, serif;
+    font-weight: 50;
+    font-variant: small-caps;
+    font-size: 50px;
+}
+h2{
+    color:#fff;
+    font-size: 35px;
+    text-align: center;
+}
+img{
+    margin-left:33%;
+    width:600px;
+}
+.para h1{
+    float:left;
+    width: 100%;
+}
+.para p{
+    color:white;
+    width:50%;
+    font-size: 20px;
+    margin-left: 30%;
+}
+.main h2{
+    float:left;
+    width:50%;
+    margin:2% 85% 2% 10%;
+    font-size: 45px;
+    text-transform: capitalize;
+}
